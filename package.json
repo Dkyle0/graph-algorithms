@@ -1,0 +1,12 @@
+{
+  "name": "graph-algorithms",
+  "version": "1.0.0",
+  "description": "Implementation of various graph algorithms in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dkyle",
+  "license": "ISC",
+  "dependencies": {}
+}
